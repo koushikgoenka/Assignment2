@@ -1,0 +1,39 @@
+h1{
+    background-color: cyan;
+    border: 2px solid black;
+    color: brown;
+    padding: 10px auto;
+}
+div{
+    background-color: yellow;
+}
+h3{
+    background-color: chartreuse;
+    border: 2px solid black;
+    color: chocolate;
+    position: sticky;
+    top: 1px;
+    
+    
+    
+}
+
+li
+{
+    background-color: cornflowerblue;
+    color: crimson;
+    border: 2px solid black;
+    margin: 30px 20px;
+}
+span{
+    font-size: large;
+    font-style: italic;
+    color: black;
+    size: 100px;
+}
+
+li:hover{
+    
+    
+    font-size: xx-large;
+}
